@@ -1,0 +1,41 @@
+{
+  "name": "trustable-score",
+  "version": "1.0.0",
+  "description": "Check your brand's AI visibility with the Trustable Score. Measure how often you appear in ChatGPT, Claude, Perplexity and other AI responses.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trustablelabs/trustable-score"
+  },
+  "keywords": [
+    "ai",
+    "visibility",
+    "chatgpt",
+    "seo",
+    "geo",
+    "generative-engine-optimization",
+    "trustable",
+    "trustable-score",
+    "ai-search",
+    "llm",
+    "claude",
+    "perplexity",
+    "brand-visibility",
+    "marketing",
+    "analytics"
+  ],
+  "author": "Trustable Labs <hello@trustablelabs.com> (https://trustablelabs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trustablelabs/trustable-score/issues"
+  },
+  "homepage": "https://trustablelabs.com",
+  "funding": {
+    "type": "individual",
+    "url": "https://trustablelabs.com"
+  }
+}
