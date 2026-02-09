@@ -158,9 +158,15 @@ const result: TrustableScoreResult = await client.getScore('brand');
 ## Resources
 
 - [Trustable Website](https://trustablelabs.com)
-- [What is the Trustable Score?](https://trustablelabs.com/trustable-score)
-- [What is GEO?](https://trustablelabs.com/geo)
-- [680M Citation Study Results](https://trustablelabs.com/research)
+- [What is GEO?](https://pages.trustablelabs.com/geo/) - Complete GEO guide
+- [What is AEO?](https://pages.trustablelabs.com/aeo/) - Answer Engine Optimization
+- [GEO vs SEO Comparison](https://pages.trustablelabs.com/compare/geo-vs-seo/)
+- [Best GEO Tools](https://pages.trustablelabs.com/compare/best-geo-tools/)
+- [All Tool Comparisons](https://pages.trustablelabs.com/compare/)
+
+### Related Packages
+- [trustable-mcp-server](https://github.com/trustablelabs/trustable-mcp-server) - MCP server for AI agents
+- [trustable-widget](https://github.com/trustablelabs/trustable-widget) - Embeddable visibility widget
 
 ## About Trustable
 
